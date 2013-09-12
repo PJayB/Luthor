@@ -1,0 +1,9 @@
+*.user
+Debug/
+Release/
+Debug Unicode/
+Release Unicode/
+*.sdf
+*.suo
+*.opensdf
+ipch
