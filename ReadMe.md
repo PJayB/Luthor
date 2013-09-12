@@ -3,7 +3,7 @@ LUTHOR
 
 Luthor is a lightweight lexical analyzer/tokenizer/scanner for C++ applications. Whatever whatever the official term may be, it turns a stream of characters into a stream of tokens. These tokens are defined by regular expressions. 
 
-It is lightweight in the sense that it is just one header file and two functions. It exists because alternative libraries are bloated, overkill, or the overhead of even getting them to work (or even compile) was just too great. If you are similarly fed up and are looking for something easy to integrate into your projects, Luthor is for you.
+It is lightweight in the sense that it is just one header file and two functions. It exists because alternative libraries are bloated, overkill, or the overhead of even getting them to work (or even compile) was just too great. If you are similarly fed up and are looking for something easy to integrate into your projects, Luthor is for you. If you are looking for something performant and with low memory overhead you probably want to stick with a competing library.
 
 Example
 -------
